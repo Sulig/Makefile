@@ -14,4 +14,9 @@
 
 Ya que parece que hay pocos tutoriales sobre Makefiles, voy a intentar producir una guia basica y util.
 
+## Acceso a la wiki
+https://github.com/Sulig/Makefile/wiki
+
+***
 ~ By sadoming ~
+***
